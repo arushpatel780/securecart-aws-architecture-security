@@ -15,6 +15,16 @@ The goal of this project is to:
 - Implement **least-privilege access**
 - Document everything for learning, reference, and interviews
 
+## 📄 Detailed Documentation (PDF)
+
+The complete step-by-step documentation, screenshots, and explanations of each step are available in the PDF.
+
+⬇️ **Download here:**  
+[SecureCart – AWS Security Architecture (PDF)](https://drive.google.com/file/d/1O5V6Ofv4oErkURxmP4tyPKCoxIp_Qg_P/view?usp=drivesdk)
+
+> Note: The PDF is hosted on Google Drive for easy download and viewing.
+
+
 ---
 
 ## 🧱 Architecture Overview
