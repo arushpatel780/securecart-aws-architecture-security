@@ -19,7 +19,8 @@ The goal of this project is to:
 
 ## 🧱 Architecture Overview
 
-(architecture-diagram.png)
+![Architecture Diagram](architecture/architecture-diagram.png)
+
 
 
 ### Traffic Flow
